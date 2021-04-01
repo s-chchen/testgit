@@ -2,7 +2,7 @@ package com.itheima.cglib;
 
 public class CglibTest {
 	
-	//v1.2
+	//v1.3
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CglibProxy cglibProxy=new CglibProxy();
